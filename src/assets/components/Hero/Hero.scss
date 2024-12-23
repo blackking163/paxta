@@ -1,0 +1,34 @@
+
+
+.title{
+  display: grid;
+  justify-content: center;
+    padding:  25px;
+
+}
+.photo{
+    display: flex;
+    height: 500px;
+    
+}
+.section{
+    background-image: url(public/video_2024-12-23_17-45-00.gif);
+   height: 750px;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   
+    
+}
+.text{
+    margin: 10px;
+    font-size: 26px;
+    width: 500px;
+    color : white ;
+    
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
